@@ -1,7 +1,8 @@
 //Predifined Variables
 const game_name = "Clash Royale";
 const image_url = "https://assets-prd.ignimgs.com/2022/05/27/clashroyale-1653673820137.jpg?crop=1%3A1%2Csmart&format=jpg&auto=png&quality=1000";
-const iframe_url = "https://now.gg"
+
+const iframe_url = prompt("Please enter your clash cloud url", "https://pizzaedition.win/");
 
 
 //set Game Title
